@@ -1,3 +1,11 @@
+alert(`
+Website ini BUKAN merupakan website resmi Pondok Pesantren Darul 'Ulum
+
+
+Terima Kasih telah berkunjung...   :))
+
+- TTD - Rizal Ammar`)
+
 const biodata = {
     namaLengkap: null,
     TTL: null,
